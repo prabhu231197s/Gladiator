@@ -1,0 +1,17 @@
+{
+  "test" : {
+    "host" : "127.0.0.1",
+    "port" : "3306",
+    "user" : "root",
+    "password" : "admin@123",
+    "database" : "gladiator"
+  },
+  "prod" : {
+    "host" : "127.0.0.1",
+    "port" : "3306",
+    "user" : "root",
+    "password" : "admin@123",
+    "database" : "gladiator"
+  },
+  "port" : 1111
+}
